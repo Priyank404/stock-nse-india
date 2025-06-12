@@ -67,7 +67,7 @@
     "apollo-server-core": "^3.10.0",
     "apollo-server-express": "^3.10.0",
     "asciichart": "^1.5.25",
-    "axios": "^0.21.2",
+    "axios": "^1.6.8",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.10",
     "express": "^4.17.2",
